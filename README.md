@@ -2,6 +2,12 @@
 <h3 align="center">🖥️ Linux System Administrator | 💡</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eryltech&label=Profile%20views&color=0e75b6&style=flat" alt="eryltech" /> </p>
+<p>Linux Distributions: CentOS, Red Hat, Ubuntu, Fedora, Debian, Kali Linux<br>
+Configuration Management: Ansible
+Containerization and Orchestration: Docker, Kubernetes<br>
+Version Control: Git
+Infrastructure as Code (IaC): Terraform<br>
+Monitoring and Logging: Prometheus, Grafana, ELK Stack</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eryltech" alt="eryltech" /></a> </p>
 
